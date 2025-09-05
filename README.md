@@ -26,6 +26,12 @@ pip install pygame-ce pylove2d
 ```
 ## Getting Started
 
+To install PyLove2D run this command in your terminal:
+
+```bash
+pip install pylove2d
+```
+
 **Basic Game Example** :
 
 Create a file main.py:
