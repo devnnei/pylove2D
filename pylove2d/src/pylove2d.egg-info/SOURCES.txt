@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/pylove2d/__init__.py
+src/pylove2d/app.py
+src/pylove2d/audio.py
+src/pylove2d/filesystem.py
+src/pylove2d/graphics.py
+src/pylove2d/input.py
+src/pylove2d/mathutils.py
+src/pylove2d/timer.py
+src/pylove2d/types.py
+src/pylove2d/window.py
+src/pylove2d.egg-info/PKG-INFO
+src/pylove2d.egg-info/SOURCES.txt
+src/pylove2d.egg-info/dependency_links.txt
+src/pylove2d.egg-info/requires.txt
+src/pylove2d.egg-info/top_level.txt
