@@ -1,4 +1,4 @@
-![pylove2D](Pylove2Dreadmelogo.png)
+![pylove2D](Pylove2Dreadmelogo(2).png)
 [![PyPI version](https://img.shields.io/pypi/v/pylove2d)](https://pypi.org/project/pylove2d/)
 [![Python Version](https://img.shields.io/pypi/pyversions/pylove2d)](https://www.python.org/)
 
